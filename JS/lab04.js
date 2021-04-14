@@ -1,0 +1,1 @@
+var SMW=prompt('Social Network name');
