@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 var smw=prompt('choose your favorite social network: facebook, twitter, linkedin, instagram ')
 var image = null;
 var link=null;
@@ -37,3 +38,6 @@ else if(smw='instagram')
 }
 
 
+=======
+alert('hello');
+>>>>>>> 59e8a6d4083d0b5d37f9d783dc9ccce65a9b5fd2
