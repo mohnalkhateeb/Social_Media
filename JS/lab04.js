@@ -1,10 +1,10 @@
-<<<<<<< HEAD
+
 var smw=prompt('choose your favorite social network: facebook, twitter, linkedin, instagram ')
 var image = null;
 var link=null;
 alert('Hello in '+ smw+ 'World')
 
-if (smw='facebook')
+if (smw =='facebook')
 {
   image='<img src="images/face1.png" alt="facebook" >'
   link='<a href="https://web.facebook.com">www.facebook.com</a>'
@@ -13,7 +13,7 @@ if (smw='facebook')
  
   
 }
-else if(smw='twitter')
+else if(smw =='twitter')
 {
   image='<img src="images/twitte.png" alt="twitter" >'
   link='<a href="https://twitter.com/?lang=en">www.twitter.com</a>'
@@ -21,7 +21,7 @@ else if(smw='twitter')
   document.write(link);
 }
   
-else if(smw='linkedin')
+else if(smw =='linkedin')
 {
   image='<img src="images/LinkedIn.png" alt="LinkedIn">'
   link='<a href="https://www.linkedin.com">www.linkedin.com </a>'
@@ -29,7 +29,7 @@ else if(smw='linkedin')
   document.write(link);
 
 }
-else if(smw='instagram')
+else if(smw =='instagram')
 {
   image='<img src="images/insta1.jpg" alt="instagram">'
   link='<a href="https://www.instagram.com">www.instagram.com </a>'
@@ -38,6 +38,5 @@ else if(smw='instagram')
 }
 
 
-=======
-alert('hello');
->>>>>>> 59e8a6d4083d0b5d37f9d783dc9ccce65a9b5fd2
+
+
