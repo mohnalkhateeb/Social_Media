@@ -7,13 +7,11 @@ while (smw !=='facebook' && smw !=='twitter' && smw !=='linkedin' && smw !=='ins
   smw=prompt('choose your favorite social network: facebook, twitter, linkedin, instagram ')
 }
 alert('Hello in '+ smw+ 'World')
-<<<<<<< HEAD
+
 var count1= Number (prompt('how many logo do you want to see'))
 for(i=1;i<=count1;i++)
 {
-=======
 
->>>>>>> daabc91ed29fd6697b34b84f2118e3ae53e67c00
 if (smw =='facebook')
 {
   image='<img src="images/face1.png" alt="facebook" >'
@@ -51,8 +49,3 @@ else if(smw =='instagram')
 
 
 
-<<<<<<< HEAD
-=======
-
-
->>>>>>> daabc91ed29fd6697b34b84f2118e3ae53e67c00
