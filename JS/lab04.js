@@ -29,7 +29,7 @@ for(i=1;i<=count1;i++)
 {
 
 
-//if (sname =='facebook')
+
 
 if (sname =='facebook')
 
