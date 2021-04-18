@@ -27,11 +27,7 @@ function imageandlink(sname)
 var count1= Number (prompt('how many logo do you want to see'))
 for(i=1;i<=count1;i++)
 {
-
-
-
-
-if (sname =='facebook')
+  if (sname =='facebook')
 
 {
   image='<img src="images/face1.png" alt="facebook" >'
