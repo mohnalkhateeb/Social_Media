@@ -11,17 +11,22 @@ while (smw1 !=='facebook' && smw1 !=='twitter' && smw1 !=='linkedin' && smw1 !==
   //smw=prompt('choose your favorite social network: facebook, twitter, linkedin, instagram ')
   smw1=smw()
 }
-alert('Hello in '+ smw1+ 'World')
+
+alert('Hello in '+ smw1+' World')
 
 imageandlink(smw1)
 
 function imageandlink(sname)
 {
+
+
+
 var count1= Number (prompt('how many logo do you want to see'))
 for(i=1;i<=count1;i++)
 {
 
-if (sname =='facebook')
+if (smw =='facebook')
+
 {
   image='<img src="images/face1.png" alt="facebook" >'
   link='<a href="https://web.facebook.com">www.facebook.com</a>'
