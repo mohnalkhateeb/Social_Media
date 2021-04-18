@@ -31,7 +31,7 @@ for(i=1;i<=count1;i++)
 
 //if (sname =='facebook')
 
-if (smw =='facebook')
+if (sname =='facebook')
 
 {
   image='<img src="images/face1.png" alt="facebook" >'
