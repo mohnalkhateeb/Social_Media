@@ -11,17 +11,26 @@ while (smw1 !=='facebook' && smw1 !=='twitter' && smw1 !=='linkedin' && smw1 !==
   //smw=prompt('choose your favorite social network: facebook, twitter, linkedin, instagram ')
   smw1=smw()
 }
+<<<<<<< HEAD
 alert('Hello in '+ smw1+ 'World')
 
 imageandlink(smw1)
 
 function imageandlink(sname)
 {
+=======
+alert('Hello in '+ smw+ 'World')
+
+>>>>>>> bbff1a9f9066a19f033a9b446cb797489e3cea52
 var count1= Number (prompt('how many logo do you want to see'))
 for(i=1;i<=count1;i++)
 {
 
+<<<<<<< HEAD
 if (sname =='facebook')
+=======
+if (smw =='facebook')
+>>>>>>> bbff1a9f9066a19f033a9b446cb797489e3cea52
 {
   image='<img src="images/face1.png" alt="facebook" >'
   link='<a href="https://web.facebook.com">www.facebook.com</a>'
