@@ -11,6 +11,7 @@ nav ul li {
   margin: 10px;
   padding: 10px;
   text-align: left;
+
   
 
   
@@ -43,7 +44,10 @@ footer
 .secph{
   color: brown;
   background-color: yellow;
+<<<<<<< HEAD
 }
 a{
   text-decoration-line: none;
+=======
+>>>>>>> 946a50a74212210b474178074d6e19c9ce21cbd9
 }
