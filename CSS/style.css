@@ -2,15 +2,16 @@ ul {
   list-style-type: none;
   margin: 0;
   padding: 10;
-  background-color: white;
+  background-color:greenyellow;
   
 }
 
-li {
-  display: inline;
-  margin: 10;
+nav ul li {
+  display: inline-block;
+  margin: 10px;
   padding: 10px;
   text-align: left;
+
   
 }
 header {
@@ -19,6 +20,7 @@ header {
 }
 header h1 {
   text-align: center;
+  color: whitesmoke;
 }
 
 main {
@@ -29,4 +31,15 @@ h6{
 }
 #fullsc {
   width:100%;
+}
+footer p{
+  text-align: center;
+}
+footer
+{
+  background-color: goldenrod;
+}
+.secph{
+  color: brown;
+  background-color: yellow;
 }
